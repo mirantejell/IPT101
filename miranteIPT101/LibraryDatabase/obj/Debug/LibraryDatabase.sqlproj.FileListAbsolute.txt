@@ -1,0 +1,20 @@
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\IPT101Database_mirante\miranteIPT101\LibraryDatabase\bin\Debug\LibraryDatabase.dacpac
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\IPT101Database_mirante\miranteIPT101\LibraryDatabase\bin\Debug\LibraryDatabase.dll
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\IPT101Database_mirante\miranteIPT101\LibraryDatabase\bin\Debug\LibraryDatabase.pdb
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\IPT101Database_mirante\miranteIPT101\LibraryDatabase\obj\Debug\LibraryDatabase.sqlproj.AssemblyReference.cache
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\IPT101Database_mirante\miranteIPT101\LibraryDatabase\obj\Debug\Model.xml
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\IPT101Database_mirante\miranteIPT101\LibraryDatabase\obj\Debug\refactor.xml
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\IPT101Database_mirante\miranteIPT101\LibraryDatabase\obj\Debug\postdeploy.sql
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\IPT101Database_mirante\miranteIPT101\LibraryDatabase\obj\Debug\predeploy.sql
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\IPT101Database_mirante\miranteIPT101\LibraryDatabase\obj\Debug\LibraryDatabase.dll
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\IPT101Database_mirante\miranteIPT101\LibraryDatabase\obj\Debug\LibraryDatabase.pdb
+C:\Users\Administrator\Desktop\IPT101\miranteIPT101\LibraryDatabase\bin\Debug\LibraryDatabase.dacpac
+C:\Users\Administrator\Desktop\IPT101\miranteIPT101\LibraryDatabase\obj\Debug\LibraryDatabase.sqlproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\IPT101\miranteIPT101\LibraryDatabase\obj\Debug\LibraryDatabase.dll
+C:\Users\Administrator\Desktop\IPT101\miranteIPT101\LibraryDatabase\obj\Debug\LibraryDatabase.pdb
+C:\Users\Administrator\Desktop\IPT101\miranteIPT101\LibraryDatabase\bin\Debug\LibraryDatabase.dll
+C:\Users\Administrator\Desktop\IPT101\miranteIPT101\LibraryDatabase\bin\Debug\LibraryDatabase.pdb
+C:\Users\Administrator\Desktop\IPT101\miranteIPT101\LibraryDatabase\obj\Debug\Model.xml
+C:\Users\Administrator\Desktop\IPT101\miranteIPT101\LibraryDatabase\obj\Debug\refactor.xml
+C:\Users\Administrator\Desktop\IPT101\miranteIPT101\LibraryDatabase\obj\Debug\postdeploy.sql
+C:\Users\Administrator\Desktop\IPT101\miranteIPT101\LibraryDatabase\obj\Debug\predeploy.sql
