@@ -1,0 +1,11 @@
+D:\Sajor\MiranteIPT101Solution\MiranteDomain\bin\Debug\net9.0\MiranteDomain.deps.json
+D:\Sajor\MiranteIPT101Solution\MiranteDomain\bin\Debug\net9.0\MiranteDomain.dll
+D:\Sajor\MiranteIPT101Solution\MiranteDomain\bin\Debug\net9.0\MiranteDomain.pdb
+D:\Sajor\MiranteIPT101Solution\MiranteDomain\obj\Debug\net9.0\MiranteDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sajor\MiranteIPT101Solution\MiranteDomain\obj\Debug\net9.0\MiranteDomain.AssemblyInfoInputs.cache
+D:\Sajor\MiranteIPT101Solution\MiranteDomain\obj\Debug\net9.0\MiranteDomain.AssemblyInfo.cs
+D:\Sajor\MiranteIPT101Solution\MiranteDomain\obj\Debug\net9.0\MiranteDomain.csproj.CoreCompileInputs.cache
+D:\Sajor\MiranteIPT101Solution\MiranteDomain\obj\Debug\net9.0\MiranteDomain.dll
+D:\Sajor\MiranteIPT101Solution\MiranteDomain\obj\Debug\net9.0\refint\MiranteDomain.dll
+D:\Sajor\MiranteIPT101Solution\MiranteDomain\obj\Debug\net9.0\MiranteDomain.pdb
+D:\Sajor\MiranteIPT101Solution\MiranteDomain\obj\Debug\net9.0\ref\MiranteDomain.dll
