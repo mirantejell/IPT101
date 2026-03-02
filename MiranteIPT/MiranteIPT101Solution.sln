@@ -3,17 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36616.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiranteDomain", "MiranteDomain\MiranteDomain.csproj", "{3DA40AEA-283C-4DD3-8149-6B0F06856C09}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiranteFramework", "MiranteFramework\MiranteFramework.csproj", "{FBB41548-5840-412A-8B5C-2D918BDBC647}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiranteYoutubeViewer", "MiranteYoutubeViewer\MiranteYoutubeViewer.csproj", "{5FC66C59-C00A-4D52-9B43-1804FB5EC930}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiranteWPF", "MiranteWPF\MiranteWPF.csproj", "{C7B55B56-FB39-4C0C-9EC7-C3D164461985}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MiranteLibraryDatabase", "MiranteLibraryDatabase\MiranteLibraryDatabase.sqlproj", "{0DE3DFC1-A49F-4B06-B780-9748D1019156}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryDomain", "LibraryDomain\LibraryDomain.csproj", "{1294B567-172E-4C2B-8D5C-39D4B0E61D79}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFramework", "LibraryFramework\LibraryFramework.csproj", "{CF34E915-326A-4058-8DB8-AF8735E7F9D7}"
 EndProject
@@ -117,3 +111,4 @@ Global
 		SolutionGuid = {B5518C0F-9E0B-4AA8-9C70-60EFD5C5AB5A}
 	EndGlobalSection
 EndGlobal
+
